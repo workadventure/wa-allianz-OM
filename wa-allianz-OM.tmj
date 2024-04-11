@@ -1012,6 +1012,32 @@
          "tilecount":273,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":64,
+         "firstgid":286,
+         "image":"tilesets\/Flat_Office.png",
+         "imageheight":2048,
+         "imagewidth":2048,
+         "margin":0,
+         "name":"Flat_Office",
+         "spacing":0,
+         "tilecount":4096,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":22,
+         "firstgid":4382,
+         "image":"tilesets\/Asset Flats.png",
+         "imageheight":672,
+         "imagewidth":704,
+         "margin":0,
+         "name":"Asset Flats",
+         "spacing":0,
+         "tilecount":462,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
