@@ -1546,12 +1546,12 @@
         }, 
         {
          "draworder":"topdown",
-         "id":2,
+         "id":71,
          "name":"floorLayer",
          "objects":[],
-         "opacity":0,
+         "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -1938,7 +1938,7 @@
          "name":"roof1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":136,
          "x":0,
          "y":0
@@ -2800,7 +2800,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":71,
+ "nextlayerid":72,
  "nextobjectid":144,
  "orientation":"orthogonal",
  "properties":[
